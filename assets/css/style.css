@@ -1,0 +1,25 @@
+body {}
+
+header {}
+
+nav {}
+
+section {
+	overflow: auto;
+	float: left;
+	width: 80%;
+}
+
+aside {
+	float: right;
+	width: 20%;
+}
+
+footer {
+	background-color: #ffffff;
+	clear: both;
+}
+
+#profile-pic {
+	float: left;
+}
