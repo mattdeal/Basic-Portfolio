@@ -105,6 +105,7 @@ section, aside {
 footer {
 	clear: both;
 	color: #ffffff;
+	/*makes footer stick to the bottom of the window, but not the page*/
 /*	position: fixed;
 	bottom: 0px;
 	width: 100%;*/
