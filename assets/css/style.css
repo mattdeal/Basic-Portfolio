@@ -150,3 +150,21 @@ footer {
   	margin-left: 19px;
 	margin-right: 19px;
 }
+
+label {
+	display: block;
+}
+
+input, textarea {
+	margin-bottom: 15px;
+	width: 100%;
+}
+
+button {
+	background-color: #4aaaa5;
+	color:white;
+	border: 0;
+ 	box-shadow:none;
+ 	border-radius: 0px;
+ 	padding: 10px 20px;
+}
