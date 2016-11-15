@@ -16,6 +16,10 @@ header {
 	border-style: solid;
 }
 
+p {
+	line-height: 32px;
+}
+
 hr {
 	margin-bottom: 20px;
 	margin-top: 20px;
@@ -153,6 +157,7 @@ footer {
 
 label {
 	display: block;
+	margin-bottom: 5px;
 }
 
 input, textarea {
@@ -167,4 +172,14 @@ button {
  	box-shadow:none;
  	border-radius: 0px;
  	padding: 10px 20px;
+}
+
+.img-left {
+	float: left;
+}
+.img-right {
+	float: right;
+}
+.portfolio-image {
+	margin-bottom: 30px;
 }
