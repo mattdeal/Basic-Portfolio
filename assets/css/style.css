@@ -11,9 +11,8 @@ body, html {
 
 header {
 	background-color: #ffffff;
-	border-color: #cccccc;
-	border-width: 0px;
-	border-bottom: 1px;
+	border-color: #dddddd;
+	border-width: 0px 0px 2px 0px;
 	border-style: solid;
 }
 
@@ -61,20 +60,23 @@ h2, h3 {
 	color: #4aaaa5;
 	font-weight: bold;
 	border-style: solid;
-	border-color: #777777;
-	border-width: 0px 0px 1px 0px;
+	border-color: #dddddd;
 }
 
 h2 {
 	font-size: 24px;
 	padding-bottom: 20px;
 	margin-bottom: 20px;
+	border-width: 0px 0px 2px 0px;
+
 }
 
 h3 {
 	font-size: 18px;
 	padding-bottom: 10px;
 	margin-bottom: 	10px;
+	border-width: 0px 0px 1px 0px;
+
 }
 
 section {
