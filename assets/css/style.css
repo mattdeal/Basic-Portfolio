@@ -176,10 +176,24 @@ button {
 
 .img-left {
 	float: left;
+	/*margin-bottom: 30px;*/
 }
+
 .img-right {
 	float: right;
+	/*margin-bottom: 30px;*/
 }
+
 .portfolio-image {
-	margin-bottom: 30px;
+}
+
+.image-banner {
+	background-color: #4aaaa5;
+	font-size: 22px;
+	padding: 20px;
+	text-align: center;
+	color: #ffffff;
+	position: relative;
+	bottom: 80px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
 }
