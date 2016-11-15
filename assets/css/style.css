@@ -91,9 +91,9 @@ section, aside {
 footer {
 	clear: both;
 	color: #ffffff;
-	position: fixed;
+/*	position: fixed;
 	bottom: 0px;
-	width: 100%;
+	width: 100%;*/
 }
 
 .footer-div {
